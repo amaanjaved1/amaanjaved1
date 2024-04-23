@@ -9,6 +9,7 @@
 - ⚡ Fun fact: **I enjoy reading, lifting weights, running, and trying out new foods!**
 
 ## Experience
+- **DevOps Engineering Intern** @ Tangerine Bank
 - **Business Systems Analyst Intern** @ Scotiabank
 - **Junior Frontend Developer** @ COMPSA - [COMPSA](https://compsa.ca/)
 - **Teaching Assistant** @ Kumon
