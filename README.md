@@ -1,9 +1,8 @@
 # Hello, I'm Amaan! 👋
 
 ## About Me
-- 🌱 I’m currently in my **second year of Computer Science, specializing in Software Design at Queen's University**.
-- 👯 In 2024, I’m looking to collaborate more on **open source projects**.
-- 🤔 I’m currently working on building a web application for my QMIND (AI Design Team) Project.
+- 🌱 I’m currently in my **third year of Computer Science, specializing in Software Design at Queen's University**.
+- 🤔 I’m currently looking for a 12-month internship starting May 2025!
 - 💬 I'm really interested in learning more about software engineering!
 - 📫 How to reach me: **[amaanjaved2004@gmail.com](mailto:amaanjaved2004@gmail.com)**
 - ⚡ Fun fact: **I enjoy reading, lifting weights, running, and trying out new foods!**
@@ -11,6 +10,7 @@
 ## Experience
 - **DevOps Engineering Intern** @ Tangerine Bank
 - **Business Systems Analyst Intern** @ Scotiabank
+- **Design Team Member** @ QMIND - [QMIND](https://qmind.ca/)
 - **Junior Frontend Developer** @ COMPSA - [COMPSA](https://compsa.ca/)
 - **Teaching Assistant** @ Kumon
 - **Part-time Advisor Assistant** @ Desjardins Investments Inc.
