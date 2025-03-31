@@ -2,17 +2,8 @@
 
 ## About Me
 - 🌱 I’m currently in my **third year of Computer Science, specializing in Software Design at Queen's University**.
-- 💬 I'm really interested in learning more about software engineering!
+- 💬 I'm really interested in learning more about software engineering and AI!
 - 📫 How to reach me: **[amaanjaved2004@gmail.com](mailto:amaanjaved2004@gmail.com)**
-- ⚡ Fun fact: **I enjoy reading, lifting weights, running, and trying out new foods!**
-
-## Experience
-- **DevOps Engineering Intern** @ Tangerine Bank
-- **Business Systems Analyst Intern** @ Scotiabank
-- **Design Team Member** @ QMIND - [QMIND](https://qmind.ca/)
-- **Junior Frontend Developer** @ COMPSA - [COMPSA](https://compsa.ca/)
-- **Teaching Assistant** @ Kumon
-- **Part-time Advisor Assistant** @ Desjardins Investments Inc.
 
 ## My Skills
 ### Languages
