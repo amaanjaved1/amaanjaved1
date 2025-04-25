@@ -32,7 +32,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=swagger)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-black?style=flat-square&logo=servicenow)
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amaan-javed/)
-
