@@ -1,10 +1,5 @@
 # Hello, I'm Amaan! 👋
 
-## About Me
-- 🌱 I’m currently in my **third year of Computer Science, specializing in Software Design at Queen's University**.
-- 💬 I'm really interested in learning more about software engineering and AI!
-- 📫 How to reach me: **[amaanjaved2004@gmail.com](mailto:amaanjaved2004@gmail.com)**
-
 ## My Skills
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
