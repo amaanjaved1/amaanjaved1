@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Amaan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="" />
+# Hello, I'm Amaan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="Iron Man Build" />
 
 **Queen’s CS · Software engineering**
 
@@ -10,7 +10,19 @@
 
 <br />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVhOXp2dzFyZGIyamc1Y2l4NmdvNTlnMGNuZ3BmOXRlamI5MHF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZG8CyDxyLgHAlfXVvx/giphy.gif" width="420" alt="Animated GIF" />
+<table align="center">
+  <tr>
+    <td align="center" valign="top" style="padding: 0 12px;">
+      <!-- Visible area matches right GIF (200px); img is 267px tall so ~bottom 25% is cropped via overflow -->
+      <div style="height: 200px; overflow: hidden; display: inline-block; vertical-align: top;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVhOXp2dzFyZGIyamc1Y2l4NmdvNTlnMGNuZ3BmOXRlamI5MHF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZG8CyDxyLgHAlfXVvx/giphy.gif" alt="Animated GIF" height="267" style="display: block;" />
+      </div>
+    </td>
+    <td align="center" valign="top" style="padding: 0 12px;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxcjhxYW9nMm51cHB0aDQ1ZzdkaHdzYjdxcnBrajJobWY5bWMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="" height="200" style="display: block; vertical-align: top;" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -46,10 +58,6 @@
 ---
 
 <div align="center">
-
-<br />
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxcjhxYW9nMm51cHB0aDQ1ZzdkaHdzYjdxcnBrajJobWY5bWMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="420" alt="" />
 
 <br />
 
