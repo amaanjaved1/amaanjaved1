@@ -4,7 +4,7 @@
 
 **Queen’s CS · Software engineering**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amaan--javed.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://amaan-javed.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amaan--javed.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://amaanjaved.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-javed/)
 [![Email](https://img.shields.io/badge/Email-amaanjaved2004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amaanjaved2004@gmail.com)
 
