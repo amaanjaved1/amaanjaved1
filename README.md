@@ -26,26 +26,26 @@
 
 ---
 
-### Coursify • AI-powered course planning platform
+### 🎓 Coursify • AI-powered course planning platform
 
 Helping **5,000+ Queen's students** discover and plan their academic paths.
 
-**45K+ page views** · [Coursify](https://www.coursify.ca)
+📈 **45K+ page views** · [Coursify](https://www.coursify.ca)
 
 ---
 
-### OmniLRS • Open-source Nvidia Isaac Sim Simulator
+### 🤖 OmniLRS • Open-source Nvidia Isaac Sim Simulator
 
 Implemented a **YAMCS-based Clearpath Husky controller** supporting real-time telemetry, command execution, and camera streaming workflows.
 
-**~250 GitHub Stars** · [Repository](https://github.com/OmniLRS/OmniLRS)
+⭐ **~250 GitHub Stars** · [Repository](https://github.com/OmniLRS/OmniLRS)
 
 ---
 
-### RateMyProfessors API Client
+### 👨‍🏫 RateMyProfessors API Client
 
 Open-source unofficial GraphQL clients providing typed, reliable access to RateMyProfessors data.
 
-**Downloads:** [![npm downloads](https://img.shields.io/npm/dt/ratemyprofessors-client?style=flat-square\&logo=npm\&label=npm)](https://www.npmjs.com/package/ratemyprofessors-client) [![PyPI downloads](https://img.shields.io/pypi/dm/ratemyprofessors-client?style=flat-square\&logo=pypi\&logoColor=white\&label=PyPI)](https://pypi.org/project/ratemyprofessors-client/)
+📦 **Downloads:** [![npm downloads](https://img.shields.io/npm/dt/ratemyprofessors-client?style=flat-square\&logo=npm\&label=npm)](https://www.npmjs.com/package/ratemyprofessors-client) [![PyPI downloads](https://img.shields.io/pypi/dm/ratemyprofessors-client?style=flat-square\&logo=pypi\&logoColor=white\&label=PyPI)](https://pypi.org/project/ratemyprofessors-client/)
 
-**Packages:** [npm](https://www.npmjs.com/package/ratemyprofessors-client) · [PyPI](https://pypi.org/project/ratemyprofessors-client/) · [TypeScript Source Code](https://github.com/amaanjaved1/rate-my-professors-client-ts) · [Python Source Code](https://github.com/amaanjaved1/Rate-My-Professors-API-Client)
+🔗 **Packages:** [npm](https://www.npmjs.com/package/ratemyprofessors-client) · [PyPI](https://pypi.org/project/ratemyprofessors-client/) · [TypeScript Source Code](https://github.com/amaanjaved1/rate-my-professors-client-ts) · [Python Source Code](https://github.com/amaanjaved1/Rate-My-Professors-API-Client)
