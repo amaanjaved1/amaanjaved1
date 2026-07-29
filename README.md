@@ -26,7 +26,7 @@
 
 ---
 
-### 🎓 Coursify • AI-powered course planning platform
+### Coursify 
 
 Helping **5,000+ Queen's students** discover and plan their academic paths.
 
@@ -34,7 +34,7 @@ Helping **5,000+ Queen's students** discover and plan their academic paths.
 
 ---
 
-### 🤖 OmniLRS • Open-source Nvidia Isaac Sim Simulator
+### OmniLRS • Open-source Nvidia Isaac Sim Simulator
 
 Implemented a **YAMCS-based Clearpath Husky controller** supporting real-time telemetry, command execution, and camera streaming workflows.
 
@@ -42,7 +42,7 @@ Implemented a **YAMCS-based Clearpath Husky controller** supporting real-time te
 
 ---
 
-### 👨‍🏫 RateMyProfessors API Client
+### RateMyProfessors API Client
 
 Open-source unofficial GraphQL clients providing typed, reliable access to RateMyProfessors data.
 
