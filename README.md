@@ -46,7 +46,7 @@ Implemented a **YAMCS-based Clearpath Husky controller** supporting real-time te
 
 Open-source unofficial GraphQL clients providing typed, reliable access to RateMyProfessors data.
 
-📦 **Downloads:** [![npm downloads](https://img.shields.io/npm/dt/ratemyprofessors-client?style=flat-square\&logo=npm\&label=npm)](https://www.npmjs.com/package/ratemyprofessors-client) [![PyPI](https://img.shields.io/pypi/v/ratemyprofessors-client?color=10b981&cacheSeconds=300)](https://pypi.org/project/ratemyprofessors-client/)
+📦 **Downloads:** [![npm downloads](https://img.shields.io/npm/dt/ratemyprofessors-client?style=flat-square\&logo=npm\&label=npm)](https://www.npmjs.com/package/ratemyprofessors-client) [![downloads](https://img.shields.io/pepy/dt/ratemyprofessors-client?cacheSeconds=300)](https://pypi.org/project/ratemyprofessors-client/)
 
 🔗 **Packages:** [npm](https://www.npmjs.com/package/ratemyprofessors-client) · [PyPI](https://pypi.org/project/ratemyprofessors-client/) · [TypeScript Source Code](https://github.com/amaanjaved1/rate-my-professors-client-ts) · [Python Source Code](https://github.com/amaanjaved1/Rate-My-Professors-API-Client)
 
