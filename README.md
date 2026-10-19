@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" height="250" alt="me" />
 
-**SWE Intern @ Mission Control | Research @ The Perk Lab | CS @ Queen's University**
+**Research @ The Perk Lab | CS @ Queen's University**
 
 <a href="https://amaanjaved.com/Amaan-Javed-Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=FFFFFF" />
